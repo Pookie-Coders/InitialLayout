@@ -1,0 +1,3 @@
+venv\Scripts\activate to enter into the venv
+python backend/app.py
+deactivate
